@@ -1,0 +1,44 @@
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","4151"
+"query","Query:[lc=""nos"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","3207"
+"query","Query:[lc=""is"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","11621"
+"query","Query:[lc=""id"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","7600"
+"query","Query:[lc=""ea"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","3879"
+"query","Query:[lc=""ei"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","20"
+"query","Query:[lc=""eae"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","2358"
+"query","Query:[lc=""vos"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","2446"
+"query","Query:[lc=""tu"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"
+
+"corpus","preloaded/latinise_4"
+"subcorpus",""
+"concordance size","3500"
+"query","Query:[lc=""ego"" & tag=""PRO""] within <doc (era=""Romana Postclassica"" | era=""Romana Classica"" | era=""Romana Antiqua"" | era=""Latina Romana"") & (genre=""prose"") />"

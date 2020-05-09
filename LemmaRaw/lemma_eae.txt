@@ -1,0 +1,510 @@
+
+33 (26, 8, 7) is, ea, id, adj. et pron. : adj. ce, cette pron. celui-ci, celle-ci, cela ; il, elle, le (au genitif : son, sa, ses)
+25 (17, 10, 8) sum, es, esse, fui : etre (en tete de phrase : il y a)
+19 (19, 0, 0) et, conj. adv. : conj. et, adv. aussi
+18 (18, 0, 0) in, indu, prep. + acc. ou + abl. : dans, en, sur
+12 (0, 21, 12) qui, quae, quod, pron. rel. : qui, que (cuius = dont) (quoi, lequel, celui qui, celui que)
+9 (0, 19, 9) quis, quae, quid, pron. interr. : qui [?], quoi [?] [apres si, nisi, ne, num, quis est l'equivalent de aliquis :] quelqu'un, quelque chose
+7 (7, 0, 0) ut, utut, conj. sub. + ind. ou subj. : pour que (subj.), que ; (ind.) quand, comme
+7 (7, 0, 0) res, rei, f. : chose, evenement, circonstance, affaire judiciaire; les biens
+7 (7, 0, 0) non, adv. neg. : (ne ...) pas
+7 (7, 0, 0) autem, conj. coord. : or, alors, cependant, quant a
+6 (6, 0, 0) possum, potes, posse, potui : pouvoir
+6 (6, 0, 0) ex, prep. + abl. : hors de, de, a partir de, avec
+6 (6, 0, 0) ac, conj. coord. : et, et aussi
+6 (4, 2, 2) hic, haec, hoc, adj. pron. : adj. ce, cette pron. celui-ci, celle-ci (antecedent : celui, celle, ceux)
+5 (5, 0, 0) verbum, i, n. : mot, expression, parole, forme (vs. fond)
+5 (5, 0, 0) sed, conj. : mais
+5 (5, 0, 0) quidam, quaedam, quoddam/quiddam : un certain, quelqu'un, quelque chose
+5 (5, 0, 0) pars, partis, f. : partie, cote
+5 (5, 0, 0) fio, is, fieri, factus sum : devenir, arriver; fio sert de passif a facio
+5 (5, 0, 0) enim, conj. : car, en effet
+4 (4, 0, 0) si, sei, conj. sub. : si
+4 (4, 0, 0) dico, is, ere, dixi, dictum : dire, affirmer, reciter, nommer
+4 (4, 0, 0) atque, conj. coord. : et, et aussi
+4 (3, 2, 1) se, sui, pron. refl. : se, soi
+4 (2, 4, 2) a, ab, abs, prep. + abl. : de, a partir de ; (apres un verbe passif) par
+3 (3, 0, 0) neque, conj. coord. : (et ne ...) pas
+3 (3, 0, 0) ipse, ipsa, ipsum, pron. : meme, moi-meme, toi-meme, lui-meme, elle-meme, nous-memes, vous-memes, eux-memes
+3 (3, 0, 0) causa, caussa, ae, f. : cause, motif; l'affaire judiciaire, proces; (+ gen.) pour
+3 (3, 0, 0) ad, prep. + acc. : vers, a, pres de
+3 (0, 6, 3) cum, quom, quum, prep. + abl. et adv. : prep. avec; adv. (cum ... tum) tantot [... tantot]
+3 (0, 6, 3) cum, conj. : alors que (conj. + subj.), quand (conj. + ind.)
+2 (2, 0, 0) viginti, adj. num. : vingt
+2 (2, 0, 0) tum, adv. : alors ; (cum ... tum) tantot
+2 (2, 0, 0) tanquam, adv. : comme, de meme que, pour ainsi dire; tamquam si : comme si
+2 (2, 0, 0) tamen, attamen, adv. : cependant
+2 (2, 0, 0) sic, seic, adv. : ainsi (... ut, ainsi que)
+2 (2, 0, 0) senatus, us, m. : senat
+2 (2, 0, 0) S, abreviation de salutem [dat] : donne le salut
+2 (2, 0, 0) quidem, adv. : certes ; (ne- : ne ...) meme pas
+2 (2, 0, 0) partim, adv. : en partie
+2 (2, 0, 0) oro, as, are : prier
+2 (2, 0, 0) offa, ae, f. : bon morceau
+2 (2, 0, 0) obligatio, ionis, f. : action d'impliquer, action de repondre, obligation (droit)
+2 (2, 0, 0) noster, tra, trum, adj. pron. : adj. notre pron. le notre
+2 (2, 0, 0) nam, conj. : de fait, voyons, car
+2 (2, 0, 0) mirabilis, e : etonnant, admirable, merveilleux
+2 (2, 0, 0) leo, onis, m. : lion
+2 (2, 0, 0) invito, as, are : inviter
+2 (2, 0, 0) homo, minis, m. : homme, humain
+2 (2, 0, 0) herba, ae, f. : herbe
+2 (2, 0, 0) habeo, es, ere, bui, bitum : avoir, posseder, tenir, considerer comme
+2 (2, 0, 0) Gratidianus, a, um : [M. Marius] Gratidianus (neveu de Marius)
+2 (2, 0, 0) ficus, i, f. : figuier
+2 (2, 0, 0) facio, is, ere, feci, factum : faire, rendre (avec attr. de l'objet)
+2 (2, 0, 0) etiam, adv. : encore, en plus, aussi, meme, bien plus
+2 (2, 0, 0) ergo, conj. : donc
+2 (2, 0, 0) denique, adv. : enfin
+2 (2, 0, 0) de, prep. + abl. : au sujet de, du haut de, de
+2 (2, 0, 0) corporalis, e : relatif au corps, du corps, corporel
+2 (2, 0, 0) aut, conj. coord. : ou, ou bien
+2 (2, 0, 0) aestimo, as, are : estimer, juger
+2 (1, 2, 1) alius, a, ud, pron. : autre, un autre, (alius... alius) l'un, l'autre
+2 (1, 1, 1) tantus, a, um : si grand (... ut : si grand... que)
+2 (1, 1, 1) pecus, udis, f. : bete domestique (de troupeau)
+2 (1, 1, 1) opus, operis, n. : travail
+2 (1, 1, 1) oleum, i, n. : huile d'olive
+2 (1, 1, 1) ille, illa, illud, pron. : adj. ce, cette pron. celui-ci, celle-ci, il, elle
+2 (1, 1, 1) fundus, i, m. : domaine, bien, propriete
+2 (1, 1, 1) costa, ae, f. : flanc, cote, cote
+2 (0, 9, 2) edo, edis, esse, edi, esum : manger
+2 (0, 4, 2) a, interj. : Ah (interjection, exprime la douleur, la joie, l'etonnement, la colere)
+2 (0, 3, 2) solo, as, are : depeupler, desoler
+2 (0, 3, 2) soleo, es, ere, solitus sum : avoir l'habitude de (solitus, a, um : habituel, ordinaire)
+2 (0, 3, 2) gigno, geno, is, ere, genui, genitum : engendrer, faire naitre
+2 (0, 3, 2) genus, eris, n. : race, origine, espece
+1 (1, 1, 0) video, es, ere, uidi, uisum : voir, (passif) paraitre, sembler
+1 (1, 1, 0) servio, is, ire, ii ou iui, itum : etre esclave
+1 (1, 0, 0) voluntas, atis, f. : volonte
+1 (1, 0, 0) volo, uis, uelle, uolui : vouloir
+1 (1, 0, 0) voco, as, are : appeler
+1 (1, 0, 0) vivo, is, ere, uixi, uictum : vivre
+1 (1, 0, 0) vestimentum, i, n. : vetement
+1 (1, 0, 0) vertebra, ae, f. : vertebre, articulation
+1 (1, 0, 0) vendo, is, ere, didi, ditum : vendre
+1 (1, 0, 0) venator, oris, m. : chasseur
+1 (1, 0, 0) veluti, adv. : comme, comme si
+1 (1, 0, 0) velut, adv. : comme
+1 (1, 0, 0) vello, is, ere, uelli/uulsi, uulsum : epiler
+1 (1, 0, 0) validus, a, um : bien portant, fort, solide ; agissant, efficace, puissant
+1 (1, 0, 0) valeo, es, ere, ui, itum : avoir de la valeur, etre fort
+1 (1, 0, 0) universus, univorsus, a, um : tout entier, general, universel
+1 (1, 0, 0) ubicumque, ubicunque, ubiquomque, adv. : partout où, chaque fois que
+1 (1, 0, 0) turdus, i, m : grive
+1 (1, 0, 0) tollo, is, tollere, sustuli, sublatum : soulever, elever, porter, elever ; lever, enlever, supprimer
+1 (1, 0, 0) thesaurus, thensaurus, i, m : tresor, depot, magasin
+1 (1, 0, 0) theatrum, i, n. : theatre
+1 (1, 0, 0) terra, ae, f. : terre
+1 (1, 0, 0) teres, teretis : arrondi, tourne
+1 (1, 0, 0) tepesco, is, ere, tepui : tiedir
+1 (1, 0, 0) tener, era, erum : tendre
+1 (1, 0, 0) teneo, es, ere, ui, tentum : tenir, diriger, atteindre ; tenir, occuper ; tenir, garder ; maintenir, soutenir, retenir ; lier ; retenir, retarder, empecher
+1 (1, 0, 0) tango, is, ere, tetigi, tactum : toucher
+1 (1, 0, 0) tabella, ae, f. : tablette, bulletin de vote, vote
+1 (1, 0, 0) suscipio, succipio, is, ere, cepi, ceptum : prendre par-dessous, soutenir, soulever, engendrer, accueillir ; prendre sur soi, assumer, subir ; entreprendre (bellum - : entreprendre une guerre)
+1 (1, 0, 0) successor, oris, m. : successeur dans une fonction
+1 (1, 0, 0) spissus, a, um : serre, dense, compact, dru, lent
+1 (1, 0, 0) spina, ae, f. : epine, arete, muret du cirque
+1 (1, 0, 0) sordes, ium, f. pl. : ordure, crasse, salete; les habits de deuil; le deuil
+1 (1, 0, 0) solvo, is, ere, ui, utum : detacher, payer, denouer (- nauem = lever l'ancre)
+1 (1, 0, 0) similitudo, inis, f. : ressemblance, analogie
+1 (1, 0, 0) sex, adj. num. : six
+1 (1, 0, 0) Sergius, i, m. : Sergius (non d'h. et tribu)
+1 (1, 0, 0) septem, adj. num. : sept
+1 (1, 0, 0) Sejus, i, m. : Seius
+1 (1, 0, 0) scribo, is, ere, scripsi, scriptum : tracer, ecrire ; mettre par ecrit ; rediger ; inscrire, enroler
+1 (1, 0, 0) rursus, adv. : de nouveau, au contraire
+1 (1, 0, 0) rumpo, is, ere, rupi, ruptum : briser, faire eclater, enfoncer ; enfreindre
+1 (1, 0, 0) rixor, aris, ari, intr. : se quereller, quereller, lutter, etre en lutte, resister
+1 (1, 0, 0) restituo, is, ere, tui, tutum : remettre debout, reconstruire, restaurer; restituer, rendre
+1 (1, 0, 0) respondeo, es, ere, di, sum : repondre
+1 (1, 0, 0) reprehensio, onis, f. : blame, critique
+1 (1, 0, 0) reliquus, reliqus, a, um : restant
+1 (1, 0, 0) redeo, is, ire, ii, itum : revenir
+1 (1, 0, 0) recipio, is, ere, cepi, ceptum : recevoir ; se recipere : se retirer
+1 (1, 0, 0) ratio, onis, f. : raison, raisonnement, compte
+1 (1, 0, 0) quisque, quaeque, quidque, pron. : chacun
+1 (1, 0, 0) quinque, num. : cinq
+1 (1, 0, 0) quin, conj. : pourquoi ne... pas ?, bien plus ; (conj.) que (avec les verbes d'empechement ou de doute precedes d'une negation : non possum facere quin, non dubito quin)
+1 (1, 0, 0) quia, conj. sub. : parce que
+1 (1, 0, 0) quattuor, quatuor, num. : quatre
+1 (1, 0, 0) quantus, a, um, adj., pron. excl et interr : quel (en parlant de grandeur)
+1 (1, 0, 0) putridus, a, um : pourri; gate, carie; fletri
+1 (1, 0, 0) provincia, ae, f. : province
+1 (1, 0, 0) propterea, adv. : a cause de cela (- quod : parce que)
+1 (1, 0, 0) proprius, a, um : propre, particulier
+1 (1, 0, 0) prodigium, ii, n. : prodige
+1 (1, 0, 0) prior, oris : d'avant, precedent
+1 (1, 0, 0) praeterea, adv. : en outre
+1 (1, 0, 0) praeditus, a, um : dote de, doue de
+1 (1, 0, 0) praeceptio, onis, f. : preciput (droit), idee [qu'on s'est formee], opinion, preceptes, enseignement, ordre, injonction
+1 (1, 0, 0) post, adv, prep. + acc. : derriere, apres
+1 (1, 0, 0) pono, is, ere, posui, situm : poser ; deposer ; placer, disposer ; installer ; presenter, etablir
+1 (1, 0, 0) pertracto, as, are : palper, manier
+1 (1, 0, 0) perspicio, is, ere, spexi, spectum : examiner
+1 (1, 0, 0) permultus, a, um : (souvent au pluriel) de tres nombreux
+1 (1, 0, 0) perforo, as, are : percer, trouer
+1 (1, 0, 0) per, prep. + acc. : a travers, par
+1 (1, 0, 0) pecunia, ae, f. : argent
+1 (1, 0, 0) pastio, onis, f. : elevage [de betail]
+1 (1, 0, 0) partitio, onis, f. : partage, division, repartition, classification
+1 (1, 0, 0) paro, as, are : preparer, procurer (paratus, a, um : pret, prepare a, bien prepare, bien fourni)
+1 (1, 0, 0) otiosus, a, um : oisif, neutre, indifferent, calme
+1 (1, 0, 0) ordino, as, are : mettre en ordre, organiser
+1 (1, 0, 0) oratio, onis, f. : langage, parole, expose, discours
+1 (1, 0, 0) ops, opis, f. : sing., pouvoir, aide ; (pl.) richesses
+1 (1, 0, 0) oppugno, as, are : assieger, attaquer (une ville)
+1 (1, 0, 0) opacus, a, um : opaque, ombre, epais, touffu
+1 (1, 0, 0) omnino, adv. : completement, tout a fait
+1 (1, 0, 0) obsidio, onis, f. : siege (d'une ville)
+1 (1, 0, 0) nuntio, a, are : annoncer
+1 (1, 0, 0) nunc, adv. : maintenant
+1 (1, 0, 0) num, adv. interr. : est-ce que par hasard, est-ce que
+1 (1, 0, 0) nubes, is, f. : nuage, nue, nuee
+1 (1, 0, 0) novellus, a, um : nouveau, jeune, recent
+1 (1, 0, 0) nos, nostrum, pron. pl. : nous
+1 (1, 0, 0) nimirum, adv. : assurement, certainement
+1 (1, 0, 0) nihil, pron. : rien
+1 (1, 0, 0) Nicostratus, i, m. : Nicostratus (preteur des Acheens)
+1 (1, 0, 0) nec, adv. : (et ne ...) pas, ni
+1 (1, 0, 0) naturalis, e : naturel
+1 (1, 0, 0) nato, as, are : nager, flotter
+1 (1, 0, 0) narratio, onis, f. : narration
+1 (1, 0, 0) moveo, es, ere, moui, motum : deplacer, emouvoir
+1 (1, 0, 0) morior, eris, i, mortuus sum : mourir
+1 (1, 0, 0) mitto, is, ere, misi, missum : envoyer, jeter, lancer ; laisser aller, congedier
+1 (1, 0, 0) misceo, es, ere, ui, mixtum : melanger
+1 (1, 0, 0) minuo, is, ere, ui, utum : concasser, mettre en pieces, amoindrir
+1 (1, 0, 0) mel, mellis, n. : miel ; la douceur
+1 (1, 0, 0) medulla, ae, f. : moelle
+1 (1, 0, 0) medius, a, um : qui est au milieu, en son milieu
+1 (1, 0, 0) Marius, i, m. : Marius
+1 (1, 0, 0) mancipium, i, n. : mancipation, propriete; esclave
+1 (1, 0, 0) lutum, i, n. : boue, argile (pro - esse, etre a vil prix)
+1 (1, 0, 0) lumbricus, i, m. : ver de terre
+1 (1, 0, 0) littera, ae, f. : lettre ; (pl.) ecriture, litterature
+1 (1, 0, 0) lito, as, are : sacrifier avec de bons presages, donner satisfaction a, apaiser par un sacrifice, faire expier
+1 (1, 0, 0) ligneus, a, um : en bois, de bois
+1 (1, 0, 0) leniter, adv. : doucement
+1 (1, 0, 0) lectio, onis, f. : lecture (a haute voix)
+1 (1, 0, 0) jumentum, i, n. : betail
+1 (1, 0, 0) judicium, ii, n. : jugement, decision
+1 (1, 0, 0) jam, jamjam, adv. : deja, a l'instant, desormais
+1 (1, 0, 0) itaque, conj. : c'est pourquoi, aussi, par consequent
+1 (1, 0, 0) italia, ae, f. : Italie
+1 (1, 0, 0) iste, a, ud, pron. : ce
+1 (1, 0, 0) invado, is, ere, uasi, uasum : envahir, se jeter sur, assaillir, attaquer, saisir
+1 (1, 0, 0) inter, prep. + acc. : parmi, entre
+1 (1, 0, 0) intellego, intelligo, is, ere, lexi, lectum : comprendre
+1 (1, 0, 0) intego, is, ere, texi, tectum : couvrir, recouvrir, proteger
+1 (1, 0, 0) instar, prep. + gen. : a la maniere de
+1 (1, 0, 0) innumerabilis, e : innombrable
+1 (1, 0, 0) inimicus, a, um : ennemi [subst. m.]
+1 (1, 0, 0) ingens, entis : immense, enorme
+1 (1, 0, 0) indigeo, es, ere, ui, - : manquer de, faire defaut
+1 (1, 0, 0) incorporalis, e : incorporel, immateriel
+1 (1, 0, 0) imperator, induperator, oris, m. : general, (tardif) empereur
+1 (1, 0, 0) immuto, as, are : changer, modifier
+1 (1, 0, 0) hirsutus, a, um : herisse, hirsute
+1 (1, 0, 0) haud, hau, haut, adv. neg. : vraiment pas, pas du tout
+1 (1, 0, 0) haruspex, icis, m. : haruspice
+1 (1, 0, 0) gregatim, adv. : en troupeau, par troupes, dans la foule
+1 (1, 0, 0) graece, adv. : en grec
+1 (1, 0, 0) glomero, as, are : mettre en pelote (en boule, en masse), rassembler, accumuler
+1 (1, 0, 0) gero, is, ere, gessi, gestum : porter ; executer, faire
+1 (1, 0, 0) genero, as, are : faire naitre, donner naissance a
+1 (1, 0, 0) frumentum, i, n. : ble
+1 (1, 0, 0) fructus, us, m. : fruit, recompense, usufruit (droit qu'on a sur qqch) ; resultat
+1 (1, 0, 0) frons, frus, frondis, f. : feuillage
+1 (1, 0, 0) forma, ae, f. : forme, beaute
+1 (1, 0, 0) far, farris, n. : ble, gateau sacre
+1 (1, 0, 0) expio, as, are : purifier par des expiations, expier, reparer
+1 (1, 0, 0) exordium, i, n. : commencement, origine ; commencement d'un discours, exorde
+1 (1, 0, 0) exigo, is, ere, egi, actum : mettre dehors, conduire dehors, pousser dehors, chasser, expulser, rejeter, renvoyer, repudier ; pousser dans, pousser vers, enfoncer, lancer, percer ; (au fig.) pousser, exciter, stimuler ; passer (le temps), traverser, supporter, endurer, essuyer ; pousser dehors (des marchandises), se defaire de, vendre, ecouler, exporter ; terminer, achever, mener a terme, accomplir, finir ; exiger, reclamer, redemander, faire rentrer (de l'argent), faire payer, lever (un impot), percevoir (une taxe) ; peser, mesurer, examiner, apprecier, juger ; deliberer, discuter, discourir, traiter
+1 (1, 0, 0) excipio, is, ere, cepi, ceptum : retirer de, excepter, stipuler expressement ; accueillir, recevoir (une nouvelle)
+1 (1, 0, 0) evenio, is, ire, ueni, uentum : survenir, arriver
+1 (1, 0, 0) equinus, a, um : de cheval, de jument, [subst] etalon
+1 (1, 0, 0) enumero, as, are : compter, enumerer, raconter en detail
+1 (1, 0, 0) emo, is, ere, emi, emptum : acheter
+1 (1, 0, 0) eligo, is, ere, legi, lectum : choisir
+1 (1, 0, 0) duodecim, num. : douze
+1 (1, 0, 0) duo, ae, o, pl. : deux
+1 (1, 0, 0) dummodo, conj. : pourvu que (+ subj)
+1 (1, 0, 0) dum, conj. sub. : (+ ind.) pendant que, jusqu'a ce que ; (+ subj.) pourvu que, temps suffisant pour que
+1 (1, 0, 0) dulcis, e : doux
+1 (1, 0, 0) do, das, dare, dedi, datum : donner
+1 (1, 0, 0) dissolvo, is, ere, solui, solutum : perdre, rompre, detruire
+1 (1, 0, 0) dies, ei, m. et f. : jour
+1 (1, 0, 0) desidero, as, are : desirer vivement, souhaiter; avoir besoin de (en parl. de ch.) ; trouver qu'il y a manque; (au passif :) laisser a desirer ; avoir a regretter, deplorer la perte de; avoir perdu; etre perdu, manquer ; demander (en justice)
+1 (1, 0, 0) deorsum, adv. : vers le bas
+1 (1, 0, 0) deinde, dein, adv. : ensuite
+1 (1, 0, 0) definitio, onis, f. : delimitation, definition
+1 (1, 0, 0) definio, is, ire, iui, itum : delimiter
+1 (1, 0, 0) d, abr. : diem (abreviation)
+1 (1, 0, 0) crassus, a, um : epais, grossier ; [subst. m.] Crassus
+1 (1, 0, 0) corrumpo, is, ere, rupi, ruptum : detruire, ruiner ; corrompre; deteriorer, alterer, gater, nuire a, falsifier ; corrompre, pervertir, depraver, seduire, suborner, gagner (qqn)
+1 (1, 0, 0) corpus, oris, n. : corps
+1 (1, 0, 0) copia, ae, f. : abondance, possibilite, faculte (pluriel, richesses, troupes)
+1 (1, 0, 0) converto, is, ere, uerti, uersum : tourner completement
+1 (1, 0, 0) contraho, is, ere, traxi, tractum : tirer ensemble, rassembler, resserrer, engager une affaire
+1 (1, 0, 0) consumo, is, ere, sumpsi, sumptum : employer, depenser ; consommer, epuiser ; venir a bout, detruire
+1 (1, 0, 0) consto, as, are, constiti : se tenir d'aplomb, exister, se maintenir, etre d'accord, coûter (impers. constat+prop. inf. : il est etabli ; constare ex : etre compose de)
+1 (1, 0, 0) constitutio, ionis, f. : condition, situation ; definition ; disposition legale, constitution
+1 (1, 0, 0) consisto, is, ere, stiti : se placer, s'etablir
+1 (1, 0, 0) consentaneus, a, um : d'accord aver, conforme a, consequent avec
+1 (1, 0, 0) confirmatio, ionis, f. : action d'encourager, affirmation, confirmation
+1 (1, 0, 0) confercio, is, ire, fersi, fertum : bourrer, accumuler, serrer
+1 (1, 0, 0) conclusio, onis, f. : fermeture, [d'où ] blocus, achevement, fin, [rhet.] peroraison, conclusion
+1 (1, 0, 0) communis, e : commun ; accessible a tous, affable
+1 (1, 0, 0) commoditas, atis, f. : commodite, convenance, avantage
+1 (1, 0, 0) comedo, is, ere, edi, esum : manger
+1 (1, 0, 0) collator, oris, m. : celui qui recueille, qui collecte
+1 (1, 0, 0) cognosco, is, ere, noui, cognitum : apprendre a connaitre, etudier ; pf. : savoir ; reconnaitre ; instruire (une affaire)
+1 (1, 0, 0) cogitatio, onis, f. : pensee, imagination ; reflexion ; resultat de la reflexion ; l'idee, dessein
+1 (1, 0, 0) clientela, ae, f. : clientele, condition de client
+1 (1, 0, 0) civilis, e : civil
+1 (1, 0, 0) cio, is, ire : mettre en mouvement, provoquer, produire
+1 (1, 0, 0) cibus, i, m. : nourriture, repas, seve
+1 (1, 0, 0) cibatus, us, m. : nourriture
+1 (1, 0, 0) cervix, icis, f. : nuque, encolure
+1 (1, 0, 0) cerebrum, i, n. : cerveau
+1 (1, 0, 0) cautio, onis, f. : precaution, garantie
+1 (1, 0, 0) cauda, ae, f. : queue
+1 (1, 0, 0) carpo, is, ere, carpsi, carptum : cueillir, harceler, affaiblir
+1 (1, 0, 0) capra, ae, f. : chevre
+1 (1, 0, 0) cancellus, i, m. : treillis, grille
+1 (1, 0, 0) cacumen, minis, n. : extreme pointe
+1 (1, 0, 0) C, npr. : Caius (abreviation)
+1 (1, 0, 0) brevis, e : court (espace ou temps)
+1 (1, 0, 0) bestia, ae, f. : bete
+1 (1, 0, 0) aurum, i, n. : or
+1 (1, 0, 0) artificium, ii, n. : art, travail artistique
+1 (1, 0, 0) aridus, ardus, a, um : sec, qui desseche, maigre, pauvre
+1 (1, 0, 0) argentum, i, n. : argent, monnaie, argenterie
+1 (1, 0, 0) aqua, ae, f. : eau
+1 (1, 0, 0) apis, is, f. : abeille
+1 (1, 0, 0) antequam, conj. sub. : avant que, avant de
+1 (1, 0, 0) annus, i, m. : annee
+1 (1, 0, 0) agito, as, are : pousser vivement ; mettre en mouvement, ; remuer, agiter, tourmenter, exciter ; s'acquitter de, s'occuper de
+1 (1, 0, 0) admodum, adv. : tout-a-fait, pleinement
+1 (1, 0, 0) accedo, is, ere, cessi, cessum : aller vers, s'approcher de, marcher sur ; venir s'ajouter, s'ajouter
+1 (0, 5, 1) eo, is, ire, iui, itum : aller
+1 (0, 3, 1) suus, a, um, adj. et pron. : adj. son pron. le sien
+1 (0, 3, 1) ceterus, a, um : [employe surtout au plur. ceteri, ae, a] tout le reste de, [acc. n. sing. pris substt] ceterum, le reste, [pl. m.] les autres, tous les autres
+1 (0, 3, 1) ceteri, ae, a pl. : tous les autres
+1 (0, 2, 1) versor, aris, ari, atus sum : se trouver habituellement, vivre, s'occuper de
+1 (0, 2, 1) verso, as, are : tourner souvent, faire tourner, remuer, plier, presenter de façons diverses
+1 (0, 2, 1) utor, eris, i, usus sum : utiliser
+1 (0, 2, 1) ususfructus, us, m. : usufruit
+1 (0, 2, 1) usumfructum, acc. de ususfructus : usufruit (l'usage et le fruit)
+1 (0, 2, 1) suo, is, ere, sui, sutum : coudre
+1 (0, 2, 1) propinquus, a, um : proche
+1 (0, 2, 1) paucus, a, um : peu de (rare au singulier)
+1 (0, 2, 1) pauci, orum, m. : quelques-uns
+1 (0, 2, 1) pauca, orum, n. : peu de choses
+1 (0, 2, 1) omnis, e : tout, [subst. n.] toute chose
+1 (0, 2, 1) omne, is, n. : pron. tout
+1 (0, 2, 1) olea, ae, f. : olive
+1 (0, 2, 1) no, as, are : nager
+1 (0, 2, 1) natura, ae, f. : nature
+1 (0, 2, 1) nascor, eris, i, natus sum : naitre (prendre son origine, provenir)
+1 (0, 2, 1) mortalis, is, m. et f. : mortel, mortelle
+1 (0, 2, 1) mortalis, e : mortel
+1 (0, 2, 1) maxime, maxume, adv. : tres, le plus
+1 (0, 2, 1) magnus, a, um : grand
+1 (0, 2, 1) hoc, adv. : ici
+1 (0, 2, 1) facilis, e : facile
+1 (0, 2, 1) facile, adv. : facilement
+1 (0, 2, 1) curo, coiro, as, are : se charger de, prendre soin de (curatus, a, um : bien soigne)
+1 (0, 2, 1) cura, ae, f. : soin, souci
+1 (0, 2, 1) contra, prep. + acc. : contre
+1 (0, 2, 1) contra, adv. : au contraire, en face
+1 (0, 2, 1) amplus, a, um : grand, important
+1 (0, 2, 1) ample, adv. : amplement, largement
+1 (0, 2, 1) alium, ii, n. : ail
+1 (0, 2, 1) alia, adv. : par un autre endroit
+1 (0, 2, 1) aedis, is, f. : temple, chambre
+1 (0, 2, 1) aedes, is, f. : maison, temple
+1 (0, 1, 1) vito, as, are : eviter
+1 (0, 1, 1) vitis, is, f. : vigne, cep, sarment
+1 (0, 1, 1) vinus, i, m. : vin
+1 (0, 1, 1) vinum, i, n. : vin
+1 (0, 1, 1) vestis, is, f. : vetement
+1 (0, 1, 1) vestio, is, ire, iui, itum : habiller, couvrir
+1 (0, 1, 1) venenum, i, n. : poison, venin
+1 (0, 1, 1) veneno, as, are : empoisonner, impregner de poison, teindre
+1 (0, 1, 1) utroque, adv. : vers l'un et l'autre cote, dans les deux directions, dans les deux sens [pr. et fig.]
+1 (0, 1, 1) uterque, utraque, utrumque : chacun des deux
+1 (0, 1, 1) totus, a, um : tout entier
+1 (0, 1, 1) totum, i, n. : le tout
+1 (0, 1, 1) Titius, ii, m. : Titius (famille)
+1 (0, 1, 1) Titius, a, um : de Titius
+1 (0, 1, 1) super, prep. + acc. / abl. : au dessus de, au sujet de
+1 (0, 1, 1) super, era, erum cf. superus : qui est au dessus ; Superi : dieux
+1 (0, 1, 1) sero, is, ere, seui, satum : semer, engendrer
+1 (0, 1, 1) Sempronius, ii, m. : Sempronius
+1 (0, 1, 1) Sempronius, a, um : de Sempronius (lex Sempronia)
+1 (0, 1, 1) secundus, a, um : second, favorable
+1 (0, 1, 1) secundum, + acc : apres, derriere, selon, suivant, conformement
+1 (0, 1, 1) scaenicus, scenicus, a, um : de la scene, de theatre
+1 (0, 1, 1) scaenicus, i, m. : acteur, comedien
+1 (0, 1, 1) sata, orum, n. : terres ensemencees, moissons, recoltes, plantes
+1 (0, 1, 1) revertor, revortor, eris, i, reuersus sum : revenir
+1 (0, 1, 1) reverto, is, ere, i, sum : retourner, revenir
+1 (0, 1, 1) reperta, orum, n. : decouvertes, inventions
+1 (0, 1, 1) reperio, is, ire, rep(p)eri, repertum : retrouver ; trouver (apres recherche) ; trouver du nouveau, imaginer
+1 (0, 1, 1) quisquam, quaequam, quidquam ou quic- : quelque, quelqu'un, quelque chose
+1 (0, 1, 1) quamquam, quanquam, conj. sub. + ind. : bien que
+1 (0, 1, 1) publicus, a, um : public
+1 (0, 1, 1) publica, ae, f. : courtisane, prostituee.
+1 (0, 1, 1) prosperus, a, um : heureux, prospere
+1 (0, 1, 1) prospere, adv. : avec succes
+1 (0, 1, 1) processus, us, m. : progression, progres, succes
+1 (0, 1, 1) procedo, is, ere, cessi, cessum : s'avancer, aboutir a
+1 (0, 1, 1) primus, a, um : premier (comparatif : prior)
+1 (0, 1, 1) primo, adv. : d'abord, en premier lieu
+1 (0, 1, 1) personus, a, um : qui resonne, qui retentit
+1 (0, 1, 1) persona, ae, f. : masque, role, caractere
+1 (0, 1, 1) pax, pacis, f. : paix
+1 (0, 1, 1) paco, as, are : pacifier [apres avoir vaincu, dompte, soumis]
+1 (0, 1, 1) orior, iris, iri, ortus sum : naitre, tirer son origine, se lever (soleil)
+1 (0, 1, 1) oriens, entis : soleil levant, orient, levant, est
+1 (0, 1, 1) modus, i, m. : mesure, limite, maniere
+1 (0, 1, 1) modo, adv. : seulement ; naguere, il y a peu (modo... modo... tantot... tantot...)
+1 (0, 1, 1) largus, a, um : large
+1 (0, 1, 1) large, adv. : largement
+1 (0, 1, 1) institutum, i, n. : usage etabli
+1 (0, 1, 1) instituo, is, ere, tui, tutum : organiser, entreprendre
+1 (0, 1, 1) incido, is, ere, cidi, cisum (in+caedo) : couper, tailler, graver
+1 (0, 1, 1) incido, is, ere, cidi (in + cado) : tomber dans, arriver, se presenter
+1 (0, 1, 1) idem, eadem, idem, adj. pron. : (la) meme
+1 (0, 1, 1) genitalis, e : genital
+1 (0, 1, 1) genitale, is, n. : fecond ; [pl.] parties sexuelles
+1 (0, 1, 1) foedus, deris, n. : traite
+1 (0, 1, 1) foedus, a, um : honteux, repugnant
+1 (0, 1, 1) Fabius, i, m. : Fabius
+1 (0, 1, 1) Fabius, a, um : de Fabius
+1 (0, 1, 1) exercitus, us, m. : armee
+1 (0, 1, 1) exerceo, es, ere, cui, citum : ne pas laisser en repos, travailler sans relache ; tourmenter, exercer, pratiquer
+1 (0, 1, 1) eodem, adv. : au meme endroit, au meme point
+1 (0, 1, 1) dubius, a, um : douteux
+1 (0, 1, 1) dubium, ii, n. : doute
+1 (0, 1, 1) diverto, is, ere, verti, versum : se detourner de, se separer de, s'en aller, [en part.] divorcer, etre different, emporter
+1 (0, 1, 1) diversus, divorsus, a, um : allant dans des directions opposees 2. oppose
+1 (0, 1, 1) difficilis, e : difficile
+1 (0, 1, 1) difficile, adv. : difficilement
+1 (0, 1, 1) dextra, dextera, ou dextera, ae, f. : main droite
+1 (0, 1, 1) dexter, tra, trum : droit ; dextra = la main droite
+1 (0, 1, 1) detego, is, ere, texi, tectum : decouvrir
+1 (0, 1, 1) detectus, a, um : plus decouvert
+1 (0, 1, 1) depopulor, aris, atus sum : devaster, ravager
+1 (0, 1, 1) depopulo, as, are : ravager
+1 (0, 1, 1) deligo, is, ere, legi, lectum : choisir
+1 (0, 1, 1) deligo, as, are : attacher, lier
+1 (0, 1, 1) cultura, ae, f. : culture, 
+1 (0, 1, 1) contrarius, a, um : contraire, oppose
+1 (0, 1, 1) contrarium, ii, n. : cote oppose, sens contraire, contraire
+1 (0, 1, 1) consentio, is, ire, sensi, sensum : etre d'accord
+1 (0, 1, 1) consensus, us, m. : accord, assentiment
+1 (0, 1, 1) colo, is, ere, colui, cultum : honorer, cultiver, habiter
+1 (0, 1, 1) celere, adv. : rapidement
+1 (0, 1, 1) celer, eris, ere : rapide
+1 (0, 1, 1) caput, itis, n. : tete ; l'extremite ; personne ; vie, existence ; capitale
+1 (0, 1, 1) capio, is, ere, cepi, captum : prendre
+1 (0, 1, 1) binus, a, um : double
+1 (0, 1, 1) bini, ae, a, pl. : chaque fois deux, chacun deux, deux
+1 (0, 1, 1) bibo, is, ere, bibi, bibitum : boire
+1 (0, 1, 1) biber, eris, f. : boisson
+1 (0, 1, 1) apertus, a, um : ouvert, decouvert
+1 (0, 1, 1) aperte, adv. : ouvertement
+1 (0, 1, 1) antes, ium, m. : rangs (agriculture, art militaire)
+1 (0, 1, 1) ante, prep. +acc. : devant, avant ; (adv.) avant
+1 (0, 1, 1) animalis, e : relatif a la vie
+1 (0, 1, 1) animal, alis, n. : etre vivant, animal
+1 (0, 1, 1) adductus, a, um : contracte
+1 (0, 1, 1) adduco, is, ere, duxi, ductum : amener (a soi), attirer ; conduire (vers), mener (a)
+<1 (0, 3, 0) quo, adv., conj. sub. : où ? (avec chgt de lieu), pour que; adv. quelque part
+<1 (0, 2, 0) suum, i, n. : (et surtout pl. sua) son bien, ses biens, leurs biens
+<1 (0, 2, 0) sus, suis, m. f. : cochon ; truie (f.)
+<1 (0, 2, 0) quod, conj. sub. : conj. parce que, ce fait que (apres si, nisi, ne, num = aliquod, quelque chose)
+<1 (0, 2, 0) quam, quamde, quande, adv. : (introduit le second terme de la comparaison =) que adv. combien
+<1 (0, 2, 0) ea, adv. : par cet endroit
+<1 (0, 1, 0) visus, us, m. : vue
+<1 (0, 1, 0) visum, i, n. : chose vue, objet vu, vision
+<1 (0, 1, 0) viso, is, ere, uisi, uisum : voir, visiter
+<1 (0, 1, 0) verus, a, um : vrai
+<1 (0, 1, 0) verum, conj. : vraiment, en verite, mais
+<1 (0, 1, 0) ver, eris, n. : le printemps
+<1 (0, 1, 0) uti, conj. : = ut
+<1 (0, 1, 0) usus, us, m. : usage, utilite
+<1 (0, 1, 0) tantum, adv. : tant de, tellement, [correl avec quantum] autant ; seulement
+<1 (0, 1, 0) summus, a, um : (superlatif de magnus.) tres grand, extreme
+<1 (0, 1, 0) summum, i, n. : le sommet, le haut, le dessus, la surface
+<1 (0, 1, 0) summa, ae, f. : ensemble
+<1 (0, 1, 0) sinistrum, i, n. : le mal
+<1 (0, 1, 0) sinistra, ae, f. : main gauche
+<1 (0, 1, 0) sinister, tra, trum : gauche
+<1 (0, 1, 0) sibus, a, um : fin, avise
+<1 (0, 1, 0) servus, i, m. : esclave
+<1 (0, 1, 0) servus, a, um : d'esclave, esclave, asservi
+<1 (0, 1, 0) servos, cf. seruus : esclave
+<1 (0, 1, 0) serva, ae, f. : esclave
+<1 (0, 1, 0) qui, adv. : quel, lequel ?
+<1 (0, 1, 0) queo, is, ire, ii ou iui, itum : pouvoir
+<1 (0, 1, 0) qua, conj. et adv. : par où, par la
+<1 (0, 1, 0) proximus, proxumus, a, um : proche (primus... proximus le 1er... le second)
+<1 (0, 1, 0) propinquus, i, m. : parent, parente
+<1 (0, 1, 0) potis, pote : qui peut, puissant ; pote est, il est possible
+<1 (0, 1, 0) potior, oris : meilleur, preferable; de plus de prix, superieur
+<1 (0, 1, 0) potior, iris, iri, potitus sum : s'emparer de
+<1 (0, 1, 0) potio, ivi, ire : mettre en possession de
+<1 (0, 1, 0) plus, pluris : plus, plus cher
+<1 (0, 1, 0) plus, adv. : plus, davantage
+<1 (0, 1, 0) pecus, us, m. : betail, troupeau
+<1 (0, 1, 0) pecus, oris, n. : betail
+<1 (0, 1, 0) parvus, a, um : petit
+<1 (0, 1, 0) opus, indecl. n. : chose necessaire
+<1 (0, 1, 0) oleo, es, ere, ui : sentir (= avoir une odeur)
+<1 (0, 1, 0) objicio, is, ere, ieci, iectum : jeter devant, exposer, reprocher
+<1 (0, 1, 0) objecto, as, are : opposer; exposer [a un danger], interposer, retarder; reprocher
+<1 (0, 1, 0) obicio, is, ere, ieci, iectum : jeter devant, placer devant
+<1 (0, 1, 0) numerus, i, m. : nombre
+<1 (0, 1, 0) numero, as, are : compter ; donner en present
+<1 (0, 1, 0) numero, adv. : vite, promptement, trop vite, trop tot
+<1 (0, 1, 0) multus, a, um : en grand nombre (surtout au pluriel : nombreux)
+<1 (0, 1, 0) mortalia, ium, n. : les affaires humaines
+<1 (0, 1, 0) minimum, i, n. : la plus petite quantite, tres peu
+<1 (0, 1, 0) minimum, adv. : tres peu, moins possible
+<1 (0, 1, 0) licet, licere, licuit, impers. : il est permis
+<1 (0, 1, 0) licet, adv. conj. : 
+<1 (0, 1, 0) liceo, v. impers. : etre en vente, mettre en vente (rare)
+<1 (0, 1, 0) latus, eris, n. : cote
+<1 (0, 1, 0) Latinus, i, m. : Latinus (roi des Laurentes)
+<1 (0, 1, 0) Latinus, a, um : latin
+<1 (0, 1, 0) Latinius, ii, m. : Latinius (nom d'homme)
+<1 (0, 1, 0) Latini, orum, m. : les Latins
+<1 (0, 1, 0) Latina, ae, f. : une femme du Latium, la voie Latine
+<1 (0, 1, 0) later, eris, m. : brique, lingot
+<1 (0, 1, 0) lateo, es, ere, latui : se cacher
+<1 (0, 1, 0) illi, adv. : a cet endroit-la
+<1 (0, 1, 0) fundo, is, ere, fusi, fusum : etendre, repandre, disperser
+<1 (0, 1, 0) fundo, as, are : fonder, batir
+<1 (0, 1, 0) forus, i, m. : pont (d'un bateau)
+<1 (0, 1, 0) foris, is, f. : porte (rare au sing.)
+<1 (0, 1, 0) exsilium, ii, n. : exil
+<1 (0, 1, 0) exilium, ii, n. : exil
+<1 (0, 1, 0) exilis, e : menu, mince
+<1 (0, 1, 0) eo, adv. : a ce point (souvent suivi de ut = que)
+<1 (0, 1, 0) ei, interj. : helas
+<1 (0, 1, 0) divinus, a, um : divin
+<1 (0, 1, 0) divinum, i, n. : le divin, sacrifice divin, divination, (pl.) predictions
+<1 (0, 1, 0) divino, as, are : deviner, presager, prevoir
+<1 (0, 1, 0) costum, i, n. : costus [plante aromatique]
+<1 (0, 1, 0) ceterum, i, n. : le reste
+<1 (0, 1, 0) adverto, (aduorto) is, ere, uerti, uersum : tourner vers, faire attention [- animum : s'apercevoir]
+<1 (0, 1, 0) adversus, prep. + acc. adv. : contre, envers
+<1 (0, 1, 0) adversus, a, um : contraire (-ae res : adversite)
+<1 (0, 1, 0) accipio, is, ere, cepi, ceptum : recevoir, apprendre (acceptus, a, um : bien accueilli, agreable)
+<1 (0, 1, 0) acceptus, a, um : bienvenu, agreable
+<1 (0, 1, 0) acceptum, i, n. : ce qu'on a reçu, ce qu'on a touche

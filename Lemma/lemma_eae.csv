@@ -1,0 +1,510 @@
+Total,Ambiguous,Word,POS
+33,26/8/7,is/ea/id,adj. et pron.
+25,17/10/8,sum/es/esse/fui,PossibleVerb.
+19,19/0/0,et,conj. adv.
+18,18/0/0,in/indu,prep. + acc. ou + abl.
+12,0/21/12,qui/quae/quod,pron. rel.
+9,0/19/9,quis/quae/quid,pron. interr.
+7,7/0/0,ut/utut,conj. sub. + ind. ou subj.
+7,7/0/0,res/rei,f.
+7,7/0/0,non,adv. neg.
+7,7/0/0,autem,conj. coord.
+6,6/0/0,possum/potes/posse/potui,PossibleVerb.
+6,6/0/0,ex,prep. + abl.
+6,6/0/0,ac,conj. coord.
+6,4/2/2,hic/haec/hoc,adj. pron.
+5,5/0/0,verbum/i,n.
+5,5/0/0,sed,conj.
+5,5/0/0,quidam/quaedam/quoddam/quiddam,PossibleVerb.
+5,5/0/0,pars/partis,f.
+5,5/0/0,fio/is/fieri/factus sum,PossibleVerb.
+5,5/0/0,enim,conj.
+4,4/0/0,si/sei,conj. sub.
+4,4/0/0,dico/is/ere/dixi/dictum,PossibleVerb.
+4,4/0/0,atque,conj. coord.
+4,3/2/1,se/sui,pron. refl.
+4,2/4/2,a/ab/abs,prep. + abl.
+3,3/0/0,neque,conj. coord.
+3,3/0/0,ipse/ipsa/ipsum,pron.
+3,3/0/0,causa/caussa/ae,f.
+3,3/0/0,ad,prep. + acc.
+3,0/6/3,cum/quom/quum,prep. + abl. et adv.
+3,0/6/3,cum,conj.
+2,2/0/0,viginti,adj. num.
+2,2/0/0,tum,adv.
+2,2/0/0,tanquam,adv.
+2,2/0/0,tamen/attamen,adv.
+2,2/0/0,sic/seic,adv.
+2,2/0/0,senatus/us,m.
+2,2/0/0,S/abreviation de salutem [dat],PossibleVerb.
+2,2/0/0,quidem,adv.
+2,2/0/0,partim,adv.
+2,2/0/0,oro/as/are,PossibleVerb.
+2,2/0/0,offa/ae,f.
+2,2/0/0,obligatio/ionis,f.
+2,2/0/0,noster/tra/trum,adj. pron.
+2,2/0/0,nam,conj.
+2,2/0/0,mirabilis,e
+2,2/0/0,leo/onis,m.
+2,2/0/0,invito/as/are,PossibleVerb.
+2,2/0/0,homo/minis,m.
+2,2/0/0,herba/ae,f.
+2,2/0/0,habeo/es/ere/bui/bitum,PossibleVerb.
+2,2/0/0,Gratidianus,adj.
+2,2/0/0,ficus/i,f.
+2,2/0/0,facio/is/ere/feci/factum,PossibleVerb.
+2,2/0/0,etiam,adv.
+2,2/0/0,ergo,conj.
+2,2/0/0,denique,adv.
+2,2/0/0,de,prep. + abl.
+2,2/0/0,corporalis,e
+2,2/0/0,aut,conj. coord.
+2,2/0/0,aestimo/as/are,PossibleVerb.
+2,1/2/1,alius/a/ud,pron.
+2,1/1/1,tantus,adj.
+2,1/1/1,pecus/udis,f.
+2,1/1/1,opus/operis,n.
+2,1/1/1,oleum/i,n.
+2,1/1/1,ille/illa/illud,pron.
+2,1/1/1,fundus/i,m.
+2,1/1/1,costa/ae,f.
+2,0/9/2,edo/edis/esse/edi/esum,PossibleVerb.
+2,0/4/2,a,interj.
+2,0/3/2,solo/as/are,PossibleVerb.
+2,0/3/2,soleo/es/ere/solitus sum : avoir l'habitude de (solitus,adj.
+2,0/3/2,gigno/geno/is/ere/genui/genitum,PossibleVerb.
+2,0/3/2,genus/eris,n.
+1,1/1/0,video/es/ere/uidi/uisum,PossibleVerb.
+1,1/1/0,servio/is/ire/ii ou iui/itum,PossibleVerb.
+1,1/0/0,voluntas/atis,f.
+1,1/0/0,volo/uis/uelle/uolui,PossibleVerb.
+1,1/0/0,voco/as/are,PossibleVerb.
+1,1/0/0,vivo/is/ere/uixi/uictum,PossibleVerb.
+1,1/0/0,vestimentum/i,n.
+1,1/0/0,vertebra/ae,f.
+1,1/0/0,vendo/is/ere/didi/ditum,PossibleVerb.
+1,1/0/0,venator/oris,m.
+1,1/0/0,veluti,adv.
+1,1/0/0,velut,adv.
+1,1/0/0,vello/is/ere/uelli/uulsi/uulsum,PossibleVerb.
+1,1/0/0,validus,adj.
+1,1/0/0,valeo/es/ere/ui/itum,PossibleVerb.
+1,1/0/0,universus/univorsus,adj.
+1,1/0/0,ubicumque/ubicunque/ubiquomque,adv.
+1,1/0/0,turdus/i/m,PossibleVerb.
+1,1/0/0,tollo/is/tollere/sustuli/sublatum,PossibleVerb.
+1,1/0/0,thesaurus/thensaurus/i/m,PossibleVerb.
+1,1/0/0,theatrum/i,n.
+1,1/0/0,terra/ae,f.
+1,1/0/0,teres/teretis,PossibleVerb.
+1,1/0/0,tepesco/is/ere/tepui,PossibleVerb.
+1,1/0/0,tener/era/erum,PossibleVerb.
+1,1/0/0,teneo/es/ere/ui/tentum,PossibleVerb.
+1,1/0/0,tango/is/ere/tetigi/tactum,PossibleVerb.
+1,1/0/0,tabella/ae,f.
+1,1/0/0,suscipio/succipio/is/ere/cepi/ceptum,PossibleVerb.
+1,1/0/0,successor/oris,m.
+1,1/0/0,spissus,adj.
+1,1/0/0,spina/ae,f.
+1,1/0/0,sordes/ium,f. pl.
+1,1/0/0,solvo/is/ere/ui/utum,PossibleVerb.
+1,1/0/0,similitudo/inis,f.
+1,1/0/0,sex,adj. num.
+1,1/0/0,Sergius/i,m.
+1,1/0/0,septem,adj. num.
+1,1/0/0,Sejus/i,m.
+1,1/0/0,scribo/is/ere/scripsi/scriptum,PossibleVerb.
+1,1/0/0,rursus,adv.
+1,1/0/0,rumpo/is/ere/rupi/ruptum,PossibleVerb.
+1,1/0/0,rixor/aris/ari,intr.
+1,1/0/0,restituo/is/ere/tui/tutum,PossibleVerb.
+1,1/0/0,respondeo/es/ere/di/sum,PossibleVerb.
+1,1/0/0,reprehensio/onis,f.
+1,1/0/0,reliquus/reliqus,adj.
+1,1/0/0,redeo/is/ire/ii/itum,PossibleVerb.
+1,1/0/0,recipio/is/ere/cepi/ceptum,PossibleVerb.
+1,1/0/0,ratio/onis,f.
+1,1/0/0,quisque/quaeque/quidque,pron.
+1,1/0/0,quinque,num.
+1,1/0/0,quin,conj.
+1,1/0/0,quia,conj. sub.
+1,1/0/0,quattuor/quatuor,num.
+1,1/0/0,quantus/a/um/adj./pron. excl et interr,PossibleVerb.
+1,1/0/0,putridus,adj.
+1,1/0/0,provincia/ae,f.
+1,1/0/0,propterea,adv.
+1,1/0/0,proprius,adj.
+1,1/0/0,prodigium/ii,n.
+1,1/0/0,prior/oris,PossibleVerb.
+1,1/0/0,praeterea,adv.
+1,1/0/0,praeditus,adj.
+1,1/0/0,praeceptio/onis,f.
+1,1/0/0,post/adv,prep. + acc.
+1,1/0/0,pono/is/ere/posui/situm,PossibleVerb.
+1,1/0/0,pertracto/as/are,PossibleVerb.
+1,1/0/0,perspicio/is/ere/spexi/spectum,PossibleVerb.
+1,1/0/0,permultus,adj.
+1,1/0/0,perforo/as/are,PossibleVerb.
+1,1/0/0,per,prep. + acc.
+1,1/0/0,pecunia/ae,f.
+1,1/0/0,pastio/onis,f.
+1,1/0/0,partitio/onis,f.
+1,1/0/0,paro/as/are : preparer/procurer (paratus,adj.
+1,1/0/0,otiosus,adj.
+1,1/0/0,ordino/as/are,PossibleVerb.
+1,1/0/0,oratio/onis,f.
+1,1/0/0,ops/opis,f.
+1,1/0/0,oppugno/as/are,PossibleVerb.
+1,1/0/0,opacus,adj.
+1,1/0/0,omnino,adv.
+1,1/0/0,obsidio/onis,f.
+1,1/0/0,nuntio/a/are,PossibleVerb.
+1,1/0/0,nunc,adv.
+1,1/0/0,num,adv. interr.
+1,1/0/0,nubes/is,f.
+1,1/0/0,novellus,adj.
+1,1/0/0,nos/nostrum,pron. pl.
+1,1/0/0,nimirum,adv.
+1,1/0/0,nihil,pron.
+1,1/0/0,Nicostratus/i,m.
+1,1/0/0,nec,adv.
+1,1/0/0,naturalis,e
+1,1/0/0,nato/as/are,PossibleVerb.
+1,1/0/0,narratio/onis,f.
+1,1/0/0,moveo/es/ere/moui/motum,PossibleVerb.
+1,1/0/0,morior/eris/i/mortuus sum,PossibleVerb.
+1,1/0/0,mitto/is/ere/misi/missum,PossibleVerb.
+1,1/0/0,misceo/es/ere/ui/mixtum,PossibleVerb.
+1,1/0/0,minuo/is/ere/ui/utum,PossibleVerb.
+1,1/0/0,mel/mellis,n.
+1,1/0/0,medulla/ae,f.
+1,1/0/0,medius,adj.
+1,1/0/0,Marius/i,m.
+1,1/0/0,mancipium/i,n.
+1,1/0/0,lutum/i,n.
+1,1/0/0,lumbricus/i,m.
+1,1/0/0,littera/ae,f.
+1,1/0/0,lito/as/are,PossibleVerb.
+1,1/0/0,ligneus,adj.
+1,1/0/0,leniter,adv.
+1,1/0/0,lectio/onis,f.
+1,1/0/0,jumentum/i,n.
+1,1/0/0,judicium/ii,n.
+1,1/0/0,jam/jamjam,adv.
+1,1/0/0,itaque,conj.
+1,1/0/0,italia/ae,f.
+1,1/0/0,iste/a/ud,pron.
+1,1/0/0,invado/is/ere/uasi/uasum,PossibleVerb.
+1,1/0/0,inter,prep. + acc.
+1,1/0/0,intellego/intelligo/is/ere/lexi/lectum,PossibleVerb.
+1,1/0/0,intego/is/ere/texi/tectum,PossibleVerb.
+1,1/0/0,instar,prep. + gen.
+1,1/0/0,innumerabilis,e
+1,1/0/0,inimicus,adj.
+1,1/0/0,ingens/entis,PossibleVerb.
+1,1/0/0,indigeo/es/ere/ui/-,PossibleVerb.
+1,1/0/0,incorporalis,e
+1,1/0/0,imperator/induperator/oris,m.
+1,1/0/0,immuto/as/are,PossibleVerb.
+1,1/0/0,hirsutus,adj.
+1,1/0/0,haud/hau/haut,adv. neg.
+1,1/0/0,haruspex/icis,m.
+1,1/0/0,gregatim,adv.
+1,1/0/0,graece,adv.
+1,1/0/0,glomero/as/are,PossibleVerb.
+1,1/0/0,gero/is/ere/gessi/gestum,PossibleVerb.
+1,1/0/0,genero/as/are,PossibleVerb.
+1,1/0/0,frumentum/i,n.
+1,1/0/0,fructus/us,m.
+1,1/0/0,frons/frus/frondis,f.
+1,1/0/0,forma/ae,f.
+1,1/0/0,far/farris,n.
+1,1/0/0,expio/as/are,PossibleVerb.
+1,1/0/0,exordium/i,n.
+1,1/0/0,exigo/is/ere/egi/actum,PossibleVerb.
+1,1/0/0,excipio/is/ere/cepi/ceptum,PossibleVerb.
+1,1/0/0,evenio/is/ire/ueni/uentum,PossibleVerb.
+1,1/0/0,equinus,adj.
+1,1/0/0,enumero/as/are,PossibleVerb.
+1,1/0/0,emo/is/ere/emi/emptum,PossibleVerb.
+1,1/0/0,eligo/is/ere/legi/lectum,PossibleVerb.
+1,1/0/0,duodecim,num.
+1,1/0/0,duo/ae/o,pl.
+1,1/0/0,dummodo,conj.
+1,1/0/0,dum,conj. sub.
+1,1/0/0,dulcis,e
+1,1/0/0,do/das/dare/dedi/datum,PossibleVerb.
+1,1/0/0,dissolvo/is/ere/solui/solutum,PossibleVerb.
+1,1/0/0,dies/ei,m. et f.
+1,1/0/0,desidero/as/are,PossibleVerb.
+1,1/0/0,deorsum,adv.
+1,1/0/0,deinde/dein,adv.
+1,1/0/0,definitio/onis,f.
+1,1/0/0,definio/is/ire/iui/itum,PossibleVerb.
+1,1/0/0,d,abr.
+1,1/0/0,crassus,adj.
+1,1/0/0,corrumpo/is/ere/rupi/ruptum,PossibleVerb.
+1,1/0/0,corpus/oris,n.
+1,1/0/0,copia/ae,f.
+1,1/0/0,converto/is/ere/uerti/uersum,PossibleVerb.
+1,1/0/0,contraho/is/ere/traxi/tractum,PossibleVerb.
+1,1/0/0,consumo/is/ere/sumpsi/sumptum,PossibleVerb.
+1,1/0/0,consto/as/are,constiti
+1,1/0/0,constitutio/ionis,f.
+1,1/0/0,consisto/is/ere/stiti,PossibleVerb.
+1,1/0/0,consentaneus,adj.
+1,1/0/0,confirmatio/ionis,f.
+1,1/0/0,confercio/is/ire/fersi/fertum,PossibleVerb.
+1,1/0/0,conclusio/onis,f.
+1,1/0/0,communis,e
+1,1/0/0,commoditas/atis,f.
+1,1/0/0,comedo/is/ere/edi/esum,PossibleVerb.
+1,1/0/0,collator/oris,m.
+1,1/0/0,cognosco/is/ere/noui,cognitum
+1,1/0/0,cogitatio/onis,f.
+1,1/0/0,clientela/ae,f.
+1,1/0/0,civilis,e
+1,1/0/0,cio/is/ire,PossibleVerb.
+1,1/0/0,cibus/i,m.
+1,1/0/0,cibatus/us,m.
+1,1/0/0,cervix/icis,f.
+1,1/0/0,cerebrum/i,n.
+1,1/0/0,cautio/onis,f.
+1,1/0/0,cauda/ae,f.
+1,1/0/0,carpo/is/ere/carpsi/carptum,PossibleVerb.
+1,1/0/0,capra/ae,f.
+1,1/0/0,cancellus/i,m.
+1,1/0/0,cacumen/minis,n.
+1,1/0/0,C,npr.
+1,1/0/0,brevis,e
+1,1/0/0,bestia/ae,f.
+1,1/0/0,aurum/i,n.
+1,1/0/0,artificium/ii,n.
+1,1/0/0,aridus/ardus,adj.
+1,1/0/0,argentum/i,n.
+1,1/0/0,aqua/ae,f.
+1,1/0/0,apis/is,f.
+1,1/0/0,antequam,conj. sub.
+1,1/0/0,annus/i,m.
+1,1/0/0,agito/as/are,PossibleVerb.
+1,1/0/0,admodum,adv.
+1,1/0/0,accedo/is/ere/cessi/cessum,PossibleVerb.
+1,0/5/1,eo/is/ire/iui/itum,PossibleVerb.
+1,0/3/1,suus/a/um,adj. et pron.
+1,0/3/1,ceterus,adj.
+1,0/3/1,ceteri/ae,a pl.
+1,0/2/1,versor/aris/ari/atus sum,PossibleVerb.
+1,0/2/1,verso/as/are,PossibleVerb.
+1,0/2/1,utor/eris/i/usus sum,PossibleVerb.
+1,0/2/1,ususfructus/us,m.
+1,0/2/1,usumfructum/acc. de ususfructus,PossibleVerb.
+1,0/2/1,suo/is/ere/sui/sutum,PossibleVerb.
+1,0/2/1,propinquus,adj.
+1,0/2/1,paucus,adj.
+1,0/2/1,pauci/orum,m.
+1,0/2/1,pauca/orum,n.
+1,0/2/1,omnis,e
+1,0/2/1,omne/is,n.
+1,0/2/1,olea/ae,f.
+1,0/2/1,no/as/are,PossibleVerb.
+1,0/2/1,natura/ae,f.
+1,0/2/1,nascor/eris/i/natus sum,PossibleVerb.
+1,0/2/1,mortalis/is,m. et f.
+1,0/2/1,mortalis,e
+1,0/2/1,maxime/maxume,adv.
+1,0/2/1,magnus,adj.
+1,0/2/1,hoc,adv.
+1,0/2/1,facilis,e
+1,0/2/1,facile,adv.
+1,0/2/1,curo/coiro/as/are : se charger de/prendre soin de (curatus,adj.
+1,0/2/1,cura/ae,f.
+1,0/2/1,contra,prep. + acc.
+1,0/2/1,contra,adv.
+1,0/2/1,amplus,adj.
+1,0/2/1,ample,adv.
+1,0/2/1,alium/ii,n.
+1,0/2/1,alia,adv.
+1,0/2/1,aedis/is,f.
+1,0/2/1,aedes/is,f.
+1,0/1/1,vito/as/are,PossibleVerb.
+1,0/1/1,vitis/is,f.
+1,0/1/1,vinus/i,m.
+1,0/1/1,vinum/i,n.
+1,0/1/1,vestis/is,f.
+1,0/1/1,vestio/is/ire/iui/itum,PossibleVerb.
+1,0/1/1,venenum/i,n.
+1,0/1/1,veneno/as/are,PossibleVerb.
+1,0/1/1,utroque,adv.
+1,0/1/1,uterque/utraque/utrumque,PossibleVerb.
+1,0/1/1,totus,adj.
+1,0/1/1,totum/i,n.
+1,0/1/1,Titius/ii,m.
+1,0/1/1,Titius,adj.
+1,0/1/1,super,prep. + acc. / abl.
+1,0/1/1,super/era/erum cf. superus,PossibleVerb.
+1,0/1/1,sero/is/ere/seui/satum,PossibleVerb.
+1,0/1/1,Sempronius/ii,m.
+1,0/1/1,Sempronius,adj.
+1,0/1/1,secundus,adj.
+1,0/1/1,secundum/+ acc,PossibleVerb.
+1,0/1/1,scaenicus/scenicus,adj.
+1,0/1/1,scaenicus/i,m.
+1,0/1/1,sata/orum,n.
+1,0/1/1,revertor/revortor/eris/i/reuersus sum,PossibleVerb.
+1,0/1/1,reverto/is/ere/i/sum,PossibleVerb.
+1,0/1/1,reperta/orum,n.
+1,0/1/1,reperio/is/ire/rep(p)eri/repertum,PossibleVerb.
+1,0/1/1,quisquam/quaequam/quidquam ou quic-,PossibleVerb.
+1,0/1/1,quamquam/quanquam,conj. sub. + ind.
+1,0/1/1,publicus,adj.
+1,0/1/1,publica/ae,f.
+1,0/1/1,prosperus,adj.
+1,0/1/1,prospere,adv.
+1,0/1/1,processus/us,m.
+1,0/1/1,procedo/is/ere/cessi/cessum,PossibleVerb.
+1,0/1/1,primus,adj.
+1,0/1/1,primo,adv.
+1,0/1/1,personus,adj.
+1,0/1/1,persona/ae,f.
+1,0/1/1,pax/pacis,f.
+1,0/1/1,paco/as/are,PossibleVerb.
+1,0/1/1,orior/iris/iri/ortus sum,PossibleVerb.
+1,0/1/1,oriens/entis,PossibleVerb.
+1,0/1/1,modus/i,m.
+1,0/1/1,modo,adv.
+1,0/1/1,largus,adj.
+1,0/1/1,large,adv.
+1,0/1/1,institutum/i,n.
+1,0/1/1,instituo/is/ere/tui/tutum,PossibleVerb.
+1,0/1/1,incido/is/ere/cidi/cisum (in+caedo),PossibleVerb.
+1,0/1/1,incido/is/ere/cidi (in + cado),PossibleVerb.
+1,0/1/1,idem/eadem/idem,adj. pron.
+1,0/1/1,genitalis,e
+1,0/1/1,genitale/is,n.
+1,0/1/1,foedus/deris,n.
+1,0/1/1,foedus,adj.
+1,0/1/1,Fabius/i,m.
+1,0/1/1,Fabius,adj.
+1,0/1/1,exercitus/us,m.
+1,0/1/1,exerceo/es/ere/cui/citum,PossibleVerb.
+1,0/1/1,eodem,adv.
+1,0/1/1,dubius,adj.
+1,0/1/1,dubium/ii,n.
+1,0/1/1,diverto/is/ere/verti/versum,PossibleVerb.
+1,0/1/1,diversus/divorsus,adj.
+1,0/1/1,difficilis,e
+1,0/1/1,difficile,adv.
+1,0/1/1,dextra/dextera/ou dextera/ae,f.
+1,0/1/1,dexter/tra/trum,PossibleVerb.
+1,0/1/1,detego/is/ere/texi/tectum,PossibleVerb.
+1,0/1/1,detectus,adj.
+1,0/1/1,depopulor/aris/atus sum,PossibleVerb.
+1,0/1/1,depopulo/as/are,PossibleVerb.
+1,0/1/1,deligo/is/ere/legi/lectum,PossibleVerb.
+1,0/1/1,deligo/as/are,PossibleVerb.
+1,0/1/1,cultura/ae,f.
+1,0/1/1,contrarius,adj.
+1,0/1/1,contrarium/ii,n.
+1,0/1/1,consentio/is/ire/sensi/sensum,PossibleVerb.
+1,0/1/1,consensus/us,m.
+1,0/1/1,colo/is/ere/colui/cultum,PossibleVerb.
+1,0/1/1,celere,adv.
+1,0/1/1,celer/eris/ere,PossibleVerb.
+1,0/1/1,caput/itis,n.
+1,0/1/1,capio/is/ere/cepi/captum,PossibleVerb.
+1,0/1/1,binus,adj.
+1,0/1/1,bini/ae/a,pl.
+1,0/1/1,bibo/is/ere/bibi/bibitum,PossibleVerb.
+1,0/1/1,biber/eris,f.
+1,0/1/1,apertus,adj.
+1,0/1/1,aperte,adv.
+1,0/1/1,antes/ium,m.
+1,0/1/1,ante,prep. +acc.
+1,0/1/1,animalis,e
+1,0/1/1,animal/alis,n.
+1,0/1/1,adductus,adj.
+1,0/1/1,adduco/is/ere/duxi/ductum,PossibleVerb.
+<1,0/3/0,quo/adv.,conj. sub.
+<1,0/2/0,suum/i,n.
+<1,0/2/0,sus/suis,m. f.
+<1,0/2/0,quod,conj. sub.
+<1,0/2/0,quam/quamde/quande,adv.
+<1,0/2/0,ea,adv.
+<1,0/1/0,visus/us,m.
+<1,0/1/0,visum/i,n.
+<1,0/1/0,viso/is/ere/uisi/uisum,PossibleVerb.
+<1,0/1/0,verus,adj.
+<1,0/1/0,verum,conj.
+<1,0/1/0,ver/eris,n.
+<1,0/1/0,uti,conj.
+<1,0/1/0,usus/us,m.
+<1,0/1/0,tantum,adv.
+<1,0/1/0,summus,adj.
+<1,0/1/0,summum/i,n.
+<1,0/1/0,summa/ae,f.
+<1,0/1/0,sinistrum/i,n.
+<1,0/1/0,sinistra/ae,f.
+<1,0/1/0,sinister/tra/trum,PossibleVerb.
+<1,0/1/0,sibus,adj.
+<1,0/1/0,servus/i,m.
+<1,0/1/0,servus,adj.
+<1,0/1/0,servos/cf. seruus,PossibleVerb.
+<1,0/1/0,serva/ae,f.
+<1,0/1/0,qui,adv.
+<1,0/1/0,queo/is/ire/ii ou iui/itum,PossibleVerb.
+<1,0/1/0,qua,conj. et adv.
+<1,0/1/0,proximus/proxumus,adj.
+<1,0/1/0,propinquus/i,m.
+<1,0/1/0,potis/pote,PossibleVerb.
+<1,0/1/0,potior/oris,PossibleVerb.
+<1,0/1/0,potior/iris/iri/potitus sum,PossibleVerb.
+<1,0/1/0,potio/ivi/ire,PossibleVerb.
+<1,0/1/0,plus/pluris,PossibleVerb.
+<1,0/1/0,plus,adv.
+<1,0/1/0,pecus/us,m.
+<1,0/1/0,pecus/oris,n.
+<1,0/1/0,parvus,adj.
+<1,0/1/0,opus,indecl. n.
+<1,0/1/0,oleo/es/ere/ui,PossibleVerb.
+<1,0/1/0,objicio/is/ere/ieci/iectum,PossibleVerb.
+<1,0/1/0,objecto/as/are,PossibleVerb.
+<1,0/1/0,obicio/is/ere/ieci/iectum,PossibleVerb.
+<1,0/1/0,numerus/i,m.
+<1,0/1/0,numero/as/are,PossibleVerb.
+<1,0/1/0,numero,adv.
+<1,0/1/0,multus,adj.
+<1,0/1/0,mortalia/ium,n.
+<1,0/1/0,minimum/i,n.
+<1,0/1/0,minimum,adv.
+<1,0/1/0,licet/licere/licuit,impers.
+<1,0/1/0,licet/adv. conj.,PossibleVerb.
+<1,0/1/0,liceo,v. impers.
+<1,0/1/0,latus/eris,n.
+<1,0/1/0,Latinus/i,m.
+<1,0/1/0,Latinus,adj.
+<1,0/1/0,Latinius/ii,m.
+<1,0/1/0,Latini/orum,m.
+<1,0/1/0,Latina/ae,f.
+<1,0/1/0,later/eris,m.
+<1,0/1/0,lateo/es/ere/latui,PossibleVerb.
+<1,0/1/0,illi,adv.
+<1,0/1/0,fundo/is/ere/fusi/fusum,PossibleVerb.
+<1,0/1/0,fundo/as/are,PossibleVerb.
+<1,0/1/0,forus/i,m.
+<1,0/1/0,foris/is,f.
+<1,0/1/0,exsilium/ii,n.
+<1,0/1/0,exilium/ii,n.
+<1,0/1/0,exilis,e
+<1,0/1/0,eo,adv.
+<1,0/1/0,ei,interj.
+<1,0/1/0,divinus,adj.
+<1,0/1/0,divinum/i,n.
+<1,0/1/0,divino/as/are,PossibleVerb.
+<1,0/1/0,costum/i,n.
+<1,0/1/0,ceterum/i,n.
+<1,0/1/0,adverto/(aduorto) is/ere/uerti/uersum,PossibleVerb.
+<1,0/1/0,adversus,prep. + acc. adv.
+<1,0/1/0,adversus,adj.
+<1,0/1/0,accipio/is/ere/cepi/ceptum : recevoir/apprendre (acceptus,adj.
+<1,0/1/0,acceptus,adj.
+<1,0/1/0,acceptum/i,n.
