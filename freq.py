@@ -2,7 +2,7 @@ import re
 import math
 import numpy as np
 import pandas as pd
-
+verbs = ["ambulo", "dico", "facio", "habeo", "sedeo", "venio", "volo", "ago", "vinco", "pono", "teneo","timeo","audio","credo","video"]
 pronouns = ["ego", "tu", "is", "id", "eae", "ea", "nos", "vos", "ei"]
 # stopw = stopwords.words('english')
 with open("stopwords.txt", 'r') as swf:
@@ -90,6 +90,67 @@ def analyzeWordFreqs(restricted):
         diffF.write(w + ", " + str(diffDict["total"][w]) + "\n")
     diffF.close()
 
+
+def getVerbWordFrequencies(verb):
+    global totalCount, totalFreqs
+    proFreqs = {}
+    totalWords = 0
+    f = open("VerbTexts/" + verb + ".txt", 'r')
+    for line in f.readlines():
+        for word in line.split(' '):
+            # if removeStop and (word in stopw or not re.match(r"[a-z][a-z]+", word)):
+            #     continue
+            if word in proFreqs.keys():
+                proFreqs[word] += 1
+            else:
+                proFreqs[word] = 1
+            if word in totalFreqs.keys():
+                totalFreqs[word] += 1
+            else:
+                totalFreqs[word] = 1
+            totalWords += 1
+            totalCount += 1
+    for w in proFreqs.keys():
+        proFreqs[w] = math.log(proFreqs[w] / totalWords)
+    freqs[verb] = proFreqs
+    f.close()
+
+def analyzeVerbFreqs():
+    for v in verbs:
+        print(v)
+        getVerbWordFrequencies(v)
+    for v in verbs:
+        f = open("VerbFreqs/" + v + ".txt", 'w')
+        for w in {k: v for k, v in sorted(freqs[v].items(), key=lambda item: -item[1])}.keys():
+            f.write(w + ", " + str(freqs[v][w]) + "\n")
+    # for w in totalFreqs.keys():
+    #     totalFreqs[w] = math.log(totalFreqs[w] / totalCount)
+    # f = open("Analysis/freqs_total.txt", 'w')
+    # for w in {k: v for k, v in sorted(totalFreqs.items(), key=lambda item: -item[1])}.keys():
+    #     f.write(w + ", " + str(totalFreqs[w]) + "\n")
+
+    # freqF = open("Analysis/freq_words_" + ("un" if not restricted else "") +
+    #              "restricted.txt", 'w')
+    # data = pd.read_csv("words_" + ("un" if not restricted else "") + "restricted.csv", sep=",",
+    #                    usecols=["Word", "Count"])
+    # total = sum(data["Count"])
+    # for n in range(len(data["Word"])):
+    #     word = data["Word"][n]
+    #     freq = math.log(data["Count"][n]/total)
+    #     freqF.write(word + ", " + str(freq) + "\n")
+    #     if not word in totalFreqs.keys():
+    #         diffDict["total"][word] = 10000 + freq
+    #     else:
+    #         diffDict["total"][word] = freq - totalFreqs[word]
+    # freqF.close()
+    # for word in {k: v for k, v in sorted(totalFreqs.items(), key=lambda item: -item[1])}.keys():
+    #     if not word in diffDict["total"].keys():
+    #         diffDict["total"][word] = -10000 - totalFreqs[word]
+    # diffF = open("Analysis/freq_diff" +
+    #              ("_un" if not restricted else "") + ".txt", 'w')
+    # for w in {k: v for k, v in sorted(diffDict["total"].items(), key=lambda item: item[1])}.keys():
+    #     diffF.write(w + ", " + str(diffDict["total"][w]) + "\n")
+    # diffF.close()
 
 def getLemmaFrequencies(pro, removeStop):
     global totalCount, totalFreqs
@@ -193,9 +254,10 @@ def extractVerbs():
         outf.write(str(totalFreqs[word]) + "," + word + "\n")
 
 if __name__ == "__main__":
+    analyzeVerbFreqs()
     # analyzeWordFreqs(False)
     # resetGlobals()
-    analyzeWordFreqs(True)
+    # analyzeWordFreqs(True)
     # resetGlobals()
     # analyzeLemmaFreqs(False)
     # extractVerbs()

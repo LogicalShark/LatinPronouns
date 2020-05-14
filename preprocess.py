@@ -9,13 +9,30 @@ pronouns = ["ego","tu","is","ea","id","nos","vos","ei","eae"]
 endings = [r"([a-z]+[om])\b", r"([a-z]+s)\b", r"([a-z]+t)\b", r"([a-z]+t)\b",
            r"([a-z]+t)\b", r"([a-z]+mus)\b", r"([a-z]+tis)\b", r"([a-z]+nt)\b", r"([a-z]+nt)\b"]
 cols = ["Source","Pre","Pro","Post"]
-
+verbs = ["ambulo", "dico", "facio", "habeo", "sedeo", "venio", "volo",
+         "ago", "vinco", "pono", "teneo", "timeo", "audio", "credo", "video"]
 def extractText():
     for pro in pronouns:
         data = pd.read_csv(corpusDir+"corpus_"+pro+".csv",usecols=cols)
         open(textDir + "text_" + pro + ".txt", 'w').close()
         outf = open(textDir + "text_" + pro + ".txt", 'a')
         print(pro, len(data["Pro"]))
+        for n in range(len(data["Pro"])):
+            line = data["Pre"][n] + " " + data["Pro"][n] + \
+                " " + data["Post"][n]
+            line = line.replace("</s><s>", " ")
+            line = line.replace("\n", " ")
+            line = re.sub(r"[^a-zA-Z ]", "", line).lower()
+            outf.write(line)
+        outf.close()
+
+
+def extractVerbText():
+    for v in verbs:
+        data = pd.read_csv("VerbConcs/"+v+".csv", usecols=cols)
+        open("VerbTexts/" + v + ".txt", 'w').close()
+        outf = open("VerbTexts/" + v + ".txt", 'a')
+        print(v, len(data["Pro"]))
         for n in range(len(data["Pro"])):
             line = data["Pre"][n] + " " + data["Pro"][n] + \
                 " " + data["Post"][n]
@@ -42,8 +59,8 @@ def extractVerbs():
         outf.close()
 
 if __name__ == "__main__":
-    print("Text")
-    extractText()
-    print("Verbs")
-    extractVerbs()
-    print("Done")
+    print("VText")
+    extractVerbText()
+    # print("Verbs")
+    # extractVerbs()
+    # print("Done")
